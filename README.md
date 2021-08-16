@@ -1,3 +1,14 @@
+# Setup
+```sh
+sudo python3 /home/zzh/nsdi22/autonetkit/setup.py develop
+```
+
+# Generate Config Files from [instructions](autonetkit/tutorial)
+
+Add config template of batfish to [instructions](autonetkit/tutorial)
+
+
+**\*\*\*\*Following documentation comes from original AutoNetkit\*\*\*\***
 # AutoNetkit
 
 AutoNetkit is a configuration engine to quickly and easily build large-scale network configurations.
